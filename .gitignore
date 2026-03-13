@@ -9,3 +9,5 @@ __pycache__/
 logs/
 # ruff缓存
 .ruff_cache/
+# pytest缓存
+.pytest_cache/
