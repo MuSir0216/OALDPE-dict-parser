@@ -7,3 +7,5 @@ __pycache__/
 *.mdd
 # 日志目录
 logs/
+# ruff缓存
+.ruff_cache/
